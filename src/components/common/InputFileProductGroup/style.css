@@ -1,0 +1,21 @@
+.output {
+    height: 300px;
+    overflow: hidden;
+    padding: 1em;
+    position: relative;
+}
+
+.output section {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.output section img {
+    object-fit: contain;
+}
+
+.transition-all {
+    height: 100%;
+    width: 100%;
+}
