@@ -1,0 +1,2 @@
+https://github.com/novakvova/React_Front-end21 - teacher's repository
+https://github.com/nazaruha/train-react-project - train with hooks, props and arrays
